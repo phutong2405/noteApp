@@ -1,6 +1,8 @@
 # someapp
 
-A new Flutter project.
+This is an app about Noting.
+This is a very first app that I have created.
+With a nice UI. Using Riverpod for state management and Hive to store local data.
 
 ## Getting Started
 
